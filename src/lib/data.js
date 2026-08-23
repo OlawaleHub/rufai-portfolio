@@ -143,6 +143,11 @@ export const experience = [
 
 export const education = [
   {
+    degree: "Master of Business Administration (in view)",
+    school: "Miva Open University",
+    period: "",
+  },
+  {
     degree: "Bachelor of Science in Biological Science",
     school: "Federal University of Agriculture, Abeokuta (FUNAAB)",
     period: "",
